@@ -66,6 +66,22 @@ EJEMPLO DE INSERTAR IMAGENES
 < img src="https://doblaje.fandom.com/es/wiki/Bob_Esponja_Pantalones_Cuadrados" width="100"
 
 
+EJEMPLO DE ENLACE
+
+[Readme](http://es.lipsum.com/)
+
+<http://es.lipsum.com>
+
+EJEMPLO DE EMOJIS
+
+:+1:
+
+
+
+
+
+
+
 
 
 
