@@ -77,8 +77,17 @@ EJEMPLO DE EMOJIS
 :+1:
 
 
+EJEMPLO DE CODIGO
 
+```bash
+  npm install
+```
 
+```javascript
+ function decirHola(){
+ console.log ( 'Hola' );
+}
+```
 
 
 
