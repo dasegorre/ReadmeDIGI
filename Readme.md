@@ -64,7 +64,7 @@ EJEMPLO DE TABLA
 EJEMPLO DE INSERTAR IMAGENES
 
 
-[eattherich] < img src="https://github.com/dasegorre/ReadmeDIGI/commit/930070079b685e40a585af5a8794096678f36d27#commitcomment-138293461" >
+< img src="https://github.com/dasegorre/ReadmeDIGI/commit/930070079b685e40a585af5a8794096678f36d27#commitcomment-138293461" >
 
 
 
