@@ -64,11 +64,7 @@ EJEMPLO DE TABLA
 EJEMPLO DE INSERTAR IMAGENES
 
 
-<img src="https://github.com/dasegorre/ReadmeDIGI/commit/521f872d2021a2d6ec22a1c03570901737e2b0be#commitcomment-138337166" width="200" >
-
-<img src="images/cantona" >
-
-<img srv="https://github.com/dasegorre/ReadmeDIGI/commit/521f872d2021a2d6ec22a1c03570901737e2b0be">
+<img src="https://github.com/dasegorre/ReadmeDIGI/blob/main/images/cantona" >
 
 
 
